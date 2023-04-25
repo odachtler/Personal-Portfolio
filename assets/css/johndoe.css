@@ -17,7 +17,7 @@
   --blue: #79A9F5;
   --indigo: #C45F90;
   --purple: #A16AE8;
-  --pink: #BAB86C;
+  --pink: #800020;
   --red: #800020;
   --orange: #800020;
   --yellow: #FAD02C;
@@ -162,7 +162,7 @@ sup {
 }
 
 a {
-  color: #BAB86C;
+  color: #800020;
   text-decoration: none;
   background-color: transparent;
 }
