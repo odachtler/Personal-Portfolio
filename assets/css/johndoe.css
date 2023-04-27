@@ -2300,6 +2300,11 @@ select.form-control[size], select.form-control[multiple] {
   height: auto;
 }
 
+footertext { 
+  color: #c6c8ca;
+
+}
+
 textarea.form-control {
   height: auto;
 }
@@ -10825,7 +10830,7 @@ a.text-danger:hover, a.text-danger:focus {
 }
 
 .text-light {
-  color: #cbd3da !important;
+  color: #f8f9fa !important;
 }
 
 a.text-light:hover, a.text-light:focus {
