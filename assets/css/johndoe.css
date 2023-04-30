@@ -2300,10 +2300,6 @@ select.form-control[size], select.form-control[multiple] {
   height: auto;
 }
 
-footertext { 
-  color: #c6c8ca;
-
-}
 
 textarea.form-control {
   height: auto;
