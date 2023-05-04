@@ -1,4 +1,4 @@
-# Olivia Dachtler's Personal Portfolio Website
+# Olivia Dachtler's Personal Portfolio Website 👋
 
 ---
 
