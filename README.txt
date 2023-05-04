@@ -1,18 +1,7 @@
-JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+# Olivia Dachtler's Personal Portfolio Website
 
-Product Page: https://wwww.devcrud.com/
+----
 
-Credits:
+This repository has information about my professional career and academic experience. You can use my portfolio to find information on my experiences at the University of Iowa, relevant skills, other career experience, and a link to my resume. 
 
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
-
-    Icons:
-		Themify Icons: 		(https://themify.me/themify-icons)
-
-	Other:
-		JQuery: 			(https://www.jquery.com)
-		Bootstrap: 			(https://www.getbootstrap.com)
-		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
-		Isotope: 			(https://isotope.metafizzy.co/) 
-		Google Maps:		(https://maps.google.com)
+----
