@@ -16,4 +16,4 @@ This repository has information about my professional career and academic experi
 
 
 
-![IMG_0397](https://user-images.githubusercontent.com/71952168/236267344-344a2fcd-e38f-4ff9-8fe6-eb4e772a05a8.JPG)
+<img src="https://user-images.githubusercontent.com/71952168/236267344-344a2fcd-e38f-4ff9-8fe6-eb4e772a05a8.JPG" alt="IMG_0397" width="400" height="300">
